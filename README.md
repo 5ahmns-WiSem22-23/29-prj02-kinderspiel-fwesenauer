@@ -21,6 +21,3 @@ Saurabh Studio GUI
 ![—Pngtree—cute fish_3634319](https://user-images.githubusercontent.com/72736373/215881136-5fa0619a-aa0a-4b26-bcde-3ccbbb799396.png)
 Hintergrundbilder
 
-Issues:
-Im Build ist vieles anders als in Unity, bsp. Objekte sichtbar die nicht sichtbar sein sollten, GUIs verschoben.
-Weiß demensprechend nicht wie genau ich das fixen soll, da es in Unity ja richtig ist.
