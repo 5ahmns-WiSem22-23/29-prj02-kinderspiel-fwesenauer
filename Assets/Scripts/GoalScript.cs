@@ -18,7 +18,7 @@ public class GoalScript : MonoBehaviour
             winCounter++;
             Destroy(collision.gameObject);
 
-            if (winCounter == 2)
+            if (winCounter >= 2)
             {
                 BackGroundWinLoose.SetActive(true);
                 WinText.SetActive(true);

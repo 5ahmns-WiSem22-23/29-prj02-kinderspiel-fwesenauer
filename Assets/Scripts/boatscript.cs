@@ -57,7 +57,7 @@ public class boatscript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (failedCounter == 2)
+        if (failedCounter >=2 )
         {
             BackGroundWinLoose.SetActive(true);
             LooseText.SetActive(true);
